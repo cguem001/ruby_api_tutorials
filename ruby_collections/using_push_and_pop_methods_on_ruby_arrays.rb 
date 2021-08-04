@@ -1,0 +1,15 @@
+teams = ["astros", "yankees", "rangers", "mets", "cardinals"]
+teams.push("marlins")
+p teams
+teams.push("red sox", "blue jays")
+p teams
+
+# .push is using to add items in the array ^
+
+teams.pop # it will remove the last item in the array
+p "blue jays removed"
+p teams
+z = teams.pop
+
+p "this is z: "+ z
+p "This is teams: " => teams
