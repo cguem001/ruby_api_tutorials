@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/data_storage_api/data_storage_api.iml" filepath="$PROJECT_DIR$/data_storage_api/data_storage_api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jsonfiles/jsonfiles.iml" filepath="$PROJECT_DIR$/jsonfiles/jsonfiles.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/ruby_api_tutorials.iml" filepath="$PROJECT_DIR$/.idea/ruby_api_tutorials.iml" />
     </modules>
   </component>
